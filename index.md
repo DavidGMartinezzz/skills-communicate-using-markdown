@@ -8,3 +8,8 @@
 ``` javascript
 var myNigga = "Hello, Nigga!";
 ```
+- [ ] List syntax as required
+- [ ] Eat the ramen block
+- [ ] snort the ramen powder
+- [x] fuck bitches
+
